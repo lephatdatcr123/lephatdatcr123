@@ -1,52 +1,61 @@
-<!DOCTYPE html>
-<html lang="vi">
+
+    <!DOCTYPE html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ứng dụng nhỏ</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GitHub Style Homepage</title>
   <style>
     body {
-      background-color: #f2f2f2;
-      font-family: Arial, sans-serif;
       margin: 0;
-      padding: 20px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen;
+      background-color: #0d1117;
+      color: #c9d1d9;
       text-align: center;
+      padding: 60px 20px;
     }
-    .container {
-      background: #fff;
-      padding: 30px;
-      border-radius: 12px;
-      max-width: 500px;
-      margin: 50px auto;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+
+    h1 {
+      font-size: 3em;
+      margin-bottom: 20px;
     }
-    img {
-      width: 100%;
-      max-width: 300px;
-      border-radius: 8px;
+
+    p {
+      font-size: 1.2em;
+      max-width: 600px;
+      margin: 0 auto 30px;
     }
-    button {
-      background-color: #4caf50;
+
+    .btn {
+      background-color: #238636;
       color: white;
-      padding: 12px 24px;
+      padding: 14px 28px;
+      font-size: 1em;
       border: none;
       border-radius: 6px;
-      font-size: 16px;
       cursor: pointer;
-      margin-top: 20px;
+      transition: background 0.3s ease;
+      text-decoration: none;
     }
-    button:hover {
-      background-color: #45a049;
+
+    .btn:hover {
+      background-color: #2ea043;
+    }
+
+    footer {
+      margin-top: 60px;
+      font-size: 0.9em;
+      color: #8b949e;
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>Chào mừng đến với App của bạn!</h1>
-    <p>Đây là một giao diện HTML đơn giản, có thể tích hợp vào app.</p>
-    <img src="https://via.placeholder.com/300x200" alt="Hình minh họa">
-    <br>
-    <button onclick="alert('Bạn đã nhấn nút!')">Nhấn tôi</button>
-  </div>
+  <h1>Let's build from here</h1>
+  <p>GitHub is where the world builds software. Millions of developers and companies build, ship, and maintain their software on GitHub — the largest and most advanced development platform in the world.</p>
+  <a href="#" class="btn">Sign up for GitHub</a>
+
+  <footer>
+    &copy; 2025 GitHub, Inc.
+  </footer>
 </body>
 </html>
