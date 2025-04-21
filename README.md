@@ -2,4 +2,6 @@
     <!DOCTYPE html>
 <html lang="en">
 <head>
-<p><strong>¹Lê Phát Đạt½<p><strong>
+<title>
+<p><strong>¹Lê Phát Đạt½</p></strong>
+</title>
