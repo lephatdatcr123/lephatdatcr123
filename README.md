@@ -10,13 +10,11 @@
     <div class="container">
         <div class="profile">
             <img src="avatar.jpg" alt="Ảnh đại diện" class="avatar">
-            <h1>Nguyễn Văn A</h1>
+            <h1>Lê Phát Đạt</h1>
             <p class="title">Lập trình viên Full Stack</p>
             <p class="description">Tôi là một lập trình viên đam mê công nghệ và yêu thích việc phát triển phần mềm. Tôi có kinh nghiệm trong việc xây dựng các ứng dụng web và di động.</p>
             <div class="social-links">
-                <a href="https://github.com/USERNAME" target="_blank">GitHub</a>
-                <a href="https://linkedin.com/in/USERNAME" target="_blank">LinkedIn</a>
-                <a href="https://twitter.com/USERNAME" target="_blank">Twitter</a>
+                <a href="https://github.com/lephatdatcr123/lephatdatcr123/edit/main/README.md" target="_blank">GitHub</a>
             </div>
         </div>
     </div>
