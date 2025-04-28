@@ -12,7 +12,7 @@
             <p class="title">Lập trình viên Full Stack</p>
             <p class="description">Tôi là một lập trình viên đam mê công nghệ và yêu thích việc phát triển phần mềm. Tôi có ít kinh nghiệm trong việc xây dựng các ứng dụng web và di động.</p>
             <div class="social-links">
-                <a href="https://github.com/lephatdatcr123/lephatdatcr123/edit/main/README.md" target="_blank">GitHub</a>
+                <a href="https://github.com/lephatdatcr123" target="_blank">GitHub</a>
             </div>
         </div>
     </div>
